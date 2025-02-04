@@ -1,5 +1,5 @@
-### Hi, I'm Spencer Ingram  
-🏷️ **Computer Engineering @ University of Waterloo** (1B)  
+### Hi, I'm Spencer Ingram  👋
+**Computer Engineering @ University of Waterloo** (1B)  
 ***Find me with my classmates, [the Waterloo Rocketry team](https://www.waterloorocketry.com/), or [the Warriors Men's Volleyball team](https://athletics.uwaterloo.ca/sports/mens-volleyball/roster/spencer-ingram/11206).***
 
 - **Proficient Languages:** C++, C, Python, Java, Ruby, JavaScript (HTML/CSS)  
