@@ -1,9 +1,13 @@
-## -  Hi, I’m Spencer
-- 🎓 I am in university, taking computer engineering at the University of Waterloo.
-- 💻 I have basic coding knowledge in Java, Python, Javascript, HTML, and CSS.
-- 💻 I’m currently learning C++.
-- 🤝 I’m looking to collaborate on any projects. Feel free to reach out.
-- 📧 How to reach me: spncrngrm@gmail.com.
-- 💬 Pronouns: He/Him.
-- 🏐 Fun fact: I am currently on the Warriors Men's Volleyball Team.
+### Hi, I'm Spencer Ingram  
+🏷️ **Computer Engineering @ University of Waterloo** (1B)  
+***Find me with my classmates, [the Waterloo Rocketry team](https://www.waterloorocketry.com/), or [the Warriors Men's Volleyball team](https://athletics.uwaterloo.ca/sports/mens-volleyball/roster/spencer-ingram/11206).***
 
+- **Proficient Languages:** C++, C, Python, Java, Ruby, JavaScript (HTML/CSS)  
+- **Hardware & Engineering:** STM32, Arduino, Circuit Design, Soldering  
+- **Software & Tools:** Fusion 360, Autodesk, Excel, Adobe Illustrator
+  
+#### 📌 [Resume](https://docs.google.com/document/d/13raGHrV71GfiVMsRKhPbvbXUBSFXjlu5vDxYWNGUB2E/edit?tab=t.0)
+
+🌱 **Always developing & learning!**
+
+Reach me at **spncrngrm1@gmail.com**  
